@@ -1,0 +1,24 @@
+head{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+body{
+    text-align: center;
+    background: rgb(216, 241, 255);
+      color: rgb(29, 116, 197);
+      font-family:sans-serif;
+    }
+    .batata{
+      background-color:rgb(29, 116, 197);
+      color: rgb(255, 255, 255);
+      font-family:sans-serif;
+    }
+    
+      table{
+        text-align: center;
+        background-color:rgb(29, 116, 197);
+        border:1;
+         width:70%;
+          height:70%; 
+          color:aliceblue
+      }
+      
